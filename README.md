@@ -1,2 +1,2 @@
-# tugas-coding
-utk mndapatkan nilai
+coding man model
+file farah 
